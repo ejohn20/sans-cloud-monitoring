@@ -1,0 +1,13 @@
+############################################################################
+#.oooooo..o                     oooooooooo.    .oooooo..o ooo        ooooo # 
+#d8P'    `Y8                     `888'   `Y8b  d8P'    `Y8 `88.       .888'# 
+#Y88bo.       .ooooo.   .ooooo.   888      888 Y88bo.       888b     d'888 # 
+# `"Y8888o.  d88' `88b d88' `"Y8  888      888  `"Y8888o.   8 Y88. .P  888 # 
+#     `"Y88b 888ooo888 888        888      888      `"Y88b  8  `888'   888 # 
+#oo     .d8P 888    .o 888   .o8  888     d88' oo     .d8P  8    Y     888 # 
+#8""88888P'  `Y8bod8P' `Y8bod8P' o888bood8P'   8""88888P'  o8o        o888o# 
+############################################################################
+#                         Authorized Access Only                           #
+#         Disconnect IMMEDIATELY if you are not an authorized user!        #
+#                All actions will be monitored and recorded.               #
+############################################################################
