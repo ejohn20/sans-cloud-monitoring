@@ -1,4 +1,6 @@
-# Infrastrcuture Stack
+# SANS Continuous Security: Monitoring and Active Defense Templates
+
+## Infrastructure Stack
 
 Files were modified from the original:
 
@@ -6,6 +8,12 @@ Files were modified from the original:
 - Application stack was removed to avoid creating the default wordpress stack because it used the classic ELB.
 
 Original project can be found [here](https://s3.amazonaws.com/quickstart-reference/enterprise-accelerator/pci/latest/templates/main.template)
+
+## WAF Stack
+
+Deployed the CloudFront WAF stack to protect the web apps.
+
+https://s3.amazonaws.com/solutions-reference/aws-waf-security-automations/latest/aws-waf-security-automations.template
 
 # Wordpress Stack
 
